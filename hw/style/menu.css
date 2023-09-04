@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #C6B6B6;
+    padding: 50px 0;
+    /* font-family */
+    margin: 0;
+}
+
+.main-menu{
+    border-radius: 20px;
+    background: #FFF;
+    width: 360px;
+/*height: 800px; */
+    padding: 56px 22px 91px 22px;
+    margin: 0 auto;
+}
